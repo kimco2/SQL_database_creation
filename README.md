@@ -1,12 +1,13 @@
 # sql-challenge
 
 
-## Hello, this repository contains four folders:
+## Hello, in this repository you will find:
 
-1. **data** - contains the csv files used for this project
-2. **data_modelling** - contains the entity relationship diagram
-3. **data_engineering** - contains the code used to create the tables and import the data
-4. **data_analysis** - contains the data analysis code for the eight questions,  along with the results for each qestion saved separately.
+- **'1_entity_relationship_diagram'**
+- **'2_table_schemata'** - the code used to create the tables and import the data
+- **'3_queries'** - the code used for the queries
+- The folder **queries_output** contains the output from the queries as individual csv files.  The number of rows in each file is noted as part of the file name.
+- The folder **data** contains the data files used for this project.
 
 Thanks
 
