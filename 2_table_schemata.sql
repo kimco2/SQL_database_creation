@@ -1,5 +1,4 @@
 -- Creating tables
-
 CREATE TABLE "titles" (
     "title_id" varchar(5)   NOT NULL,
     "title" varchar(18)   NOT NULL,
@@ -89,5 +88,3 @@ select * from departments;
 select * from salaries;
 select * from dept_emp;
 select * from dept_manager;
-
-
