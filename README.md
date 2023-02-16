@@ -1,7 +1,7 @@
 # sql-challenge
 
 
-## Hello, in this repository you will find:
+### Hello, in this repository you will find:
 
 - **'1_entity_relationship_diagram'**
 - **'2_table_schemata'** - the code used to create the tables and import the data
