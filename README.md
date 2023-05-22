@@ -1,7 +1,7 @@
 # Create an SQL database and analyse the data
 
 ### **Overview**
-Using data for a fictional company created an SQL database from six CSV files and answer questions about the data
+Using data for a fictional company created an SQL database from six CSV files and answered questions about the data
 
 
 ### **Aspects Covered**
