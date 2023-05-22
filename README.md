@@ -8,7 +8,7 @@ Using data for a fictional company created an SQL database from six CSV files an
 - Creating an entity relationship diagram (ERD), specifying data types, primary keys, foreign keys, and other constraints
 - Developing table schema
 - Importing csv files into the corresponding SQL table
-- Writing queries to analyse the data in database and answer questions
+- Writing queries to analyse the data and answer questions
 
 ### **Visualisations**
 ![ERD](1_entity_relationship_diagram.png)
